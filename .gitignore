@@ -1,0 +1,9 @@
+.settings/
+bin/
+.classpath
+.project
+.DS_Store
+        .Data.txt
+        .Sample.txt
+        .copy.txt
+        .outagain.txt
